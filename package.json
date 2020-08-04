@@ -1,0 +1,11 @@
+{
+  "name": "jira-awesome",
+  "version": "1.0.0",
+  "description": "awesome jira tools",
+  "main": "index.js",
+  "author": "dailer",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
